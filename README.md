@@ -12,6 +12,18 @@ This repository is where I document and share my learning journey across differe
 
 > I’ll organize notes by topic and also post logs to reflect on what I learn over time.
 
+## 📈 Growth Graph
+
+```mermaid
+graph TD
+  Start --> C++
+  C++ --> MergeSort
+  MergeSort --> Logs
+  Logs --> GitHubGreenSquares
+  GitHubGreenSquares --> Motivation
+  Motivation --> MoreLearning
+```
+
 ## 📘 Topics
 
 - [ ] Python
